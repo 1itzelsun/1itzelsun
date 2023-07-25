@@ -1,0 +1,35 @@
+.section1{
+    width: 900px;
+    height: 300px;
+    background-color: rgb(238, 201, 34);
+}
+.btn1{
+    background-color: rgb(226, 95, 43);
+    width: 90px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;/*blanquitas*/
+    cursor: pointer;
+    border: 2px solid rgb(230, 140, 23);
+    float: right;
+    margin-top: 70px;
+}
+
+
+
+.btn2{
+    background-color: rgb(226, 95, 43);
+    width: 90px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;/*blanquitas*/
+    cursor: pointer;
+    border: 2px solid rgb(230, 140, 23);
+    float: right;
+    margin-top: 70px;
+}
+

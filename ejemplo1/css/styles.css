@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    padding: 10px;
+    background-color: #06e651;
+    color: rgb(229, 207, 8);
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 10px;
+    background-color: #fe0303;
+    border-bottom: 1px solid #fa0303;
+}
+
+/* Clase para ocultar el menú */
+.hidden {
+    display: none;
+}
